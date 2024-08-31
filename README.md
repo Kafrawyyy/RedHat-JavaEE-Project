@@ -1,4 +1,4 @@
-# 🚀 RedHat JAVA EE Project
+# 🚀 RedHat JAVA EE Final Project
 
 This project is the powerhouse behind a **Trello-like application** , providing all the backend magic to organize and track your tasks with ease. Whether you're leading a team or collaborating on tasks, this backend has got you covered.
 
